@@ -1,15 +1,15 @@
 {
-  "generated_at": "15-08-2026 17:41 Madrid",
+  "generated_at": "15-08-2026 21:27 Madrid",
   "period": {
     "start": "15-08-2026 00:00",
     "end": "20-08-2026 00:00"
   },
   "cards": {
-    "total_cm": -10.4,
-    "astro_cm": -11.8,
+    "total_cm": -0.6,
+    "astro_cm": -2.0,
     "meteo_cm": 1.3,
-    "galibo_entrada_m": 1.587,
-    "galibo_salida_m": 1.578,
+    "galibo_entrada_m": 1.489,
+    "galibo_salida_m": 1.48,
     "next_high_time": "15-08 21h",
     "next_high_cm": -0.6,
     "next_low_time": "16-08 05h",
@@ -896,10 +896,10 @@
       "historico",
       "historico",
       "historico",
-      "forecast",
-      "forecast",
-      "forecast",
-      "forecast",
+      "historico",
+      "historico",
+      "historico",
+      "historico",
       "forecast",
       "forecast",
       "forecast",
@@ -1173,7 +1173,7 @@
       "meteo": 1.4,
       "galibo_entrada": 1.555,
       "galibo_salida": 1.546,
-      "fuente": "forecast"
+      "fuente": "historico"
     },
     {
       "fecha": "15-08 19h",
@@ -1182,7 +1182,7 @@
       "meteo": 1.4,
       "galibo_entrada": 1.523,
       "galibo_salida": 1.514,
-      "fuente": "forecast"
+      "fuente": "historico"
     },
     {
       "fecha": "15-08 20h",
@@ -1191,7 +1191,7 @@
       "meteo": 1.4,
       "galibo_entrada": 1.499,
       "galibo_salida": 1.49,
-      "fuente": "forecast"
+      "fuente": "historico"
     },
     {
       "fecha": "15-08 21h",
@@ -1200,7 +1200,7 @@
       "meteo": 1.3,
       "galibo_entrada": 1.489,
       "galibo_salida": 1.48,
-      "fuente": "forecast"
+      "fuente": "historico"
     },
     {
       "fecha": "15-08 22h",
